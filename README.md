@@ -1,7 +1,8 @@
-﻿# PrepGrid
+# PrepGrid
 
-[![License](https://img.shields.io/github/license/harisaravananm/PrepGrid?style=for-the-badge)](https://github.com/harisaravananm/PrepGrid/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/PrepGrid?style=for-the-badge)](https://github.com/harisaravananm/PrepGrid/commits/main)
+<!-- tech-version-badges -->
+![React 19%2B](https://img.shields.io/badge/React-19%2B-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![TypeScript 5%2B](https://img.shields.io/badge/TypeScript-5%2B-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite 6%2B](https://img.shields.io/badge/Vite-6%2B-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Razorpay Payments](https://img.shields.io/badge/Razorpay-Payments-3395FF?style=for-the-badge)
+<!-- /tech-version-badges -->
 
 An AI interview platform for candidate assessment and preparation, with mock interviews, document analysis, performance tracking, scheduling, and subscription support.
 
